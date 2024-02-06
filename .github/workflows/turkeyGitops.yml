@@ -7,10 +7,10 @@ on:
         type: string
       registry:
         type: string
-        default: mozillareality
+        default: zigit
       DOCKER_HUB_USR:
         type: string
-        default: mozillareality
+        default: zigit
       dockerfile:
         type: string
         default: Dockerfile
